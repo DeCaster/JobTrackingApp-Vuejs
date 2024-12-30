@@ -26,10 +26,10 @@ This project is my first Vue.js project. It is a job board platform built with V
 ## Screenshots
 
 ### 1. Home Page
-![Home Page](./assets/no1.png)
+![Home Page](./assets/no2.png)
 
 ### 2. Job Listings Page (Expanded View)
-![Job Listings Page](./assets/no2.png)
+![Job Listings Page](./assets/no1.png)
 
 ### 3. Job Details Page
 ![Job Details Page](./assets/no3.png)
